@@ -9,6 +9,6 @@
       name: 
       - tmux 
       - zsh
-      - nvim
+      - neovim
       - ripgrep
       - gh
