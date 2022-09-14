@@ -4,6 +4,6 @@
   become: true
 
   tasks: 
-  - name: install zsh
+  - name: install btop 
     package:
-      name: zsh
+      name: btop 
